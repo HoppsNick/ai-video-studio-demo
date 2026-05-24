@@ -1,0 +1,92 @@
+{
+  "draftName": "高维的你正在提醒你",
+  "creative": {
+    "targetDuration": "85-95s",
+    "canvas": "16:9",
+    "voice": "clear female, medium-slow, mysterious opening, warm ending",
+    "musicMood": "mysterious ambient pulse turning warm",
+    "packaging": "strong packaging with restrained cosmic premium look"
+  },
+  "beats": [
+    {
+      "id": "hook-cosmos",
+      "query": "space black hole stars cinematic",
+      "label": "宇宙与黑洞悬念钩子",
+      "startUs": 0,
+      "durationUs": 7000000,
+      "flower": ["最恐怖的不是黑洞"]
+    },
+    {
+      "id": "bookshelf-signal",
+      "query": "dark bookshelf light dust cinematic room",
+      "label": "书架后的信号",
+      "startUs": 7000000,
+      "durationUs": 9000000,
+      "flower": ["鬼", "未来的自己"]
+    },
+    {
+      "id": "show-open",
+      "query": "mysterious observatory stars interior woman silhouette",
+      "label": "栏目开场与命运观察室",
+      "startUs": 16000000,
+      "durationUs": 7000000,
+      "flower": ["命运观察室", "Not luck, patterns."]
+    },
+    {
+      "id": "intuition-stop",
+      "query": "woman walking pause intuition city cinematic",
+      "label": "突然停下的直觉",
+      "startUs": 23000000,
+      "durationUs": 12000000,
+      "flower": ["别去", "再等等", "就是它"]
+    },
+    {
+      "id": "memory-lookback",
+      "query": "woman looking back window memory cinematic",
+      "label": "回头才发现直觉很准",
+      "startUs": 35000000,
+      "durationUs": 7000000,
+      "flower": ["直觉准得可怕"]
+    },
+    {
+      "id": "yuan-shen",
+      "query": "taoist abstract energy meditation light cinematic",
+      "label": "元神概念出现",
+      "startUs": 42000000,
+      "durationUs": 10000000,
+      "flower": ["元神", "高维的你"]
+    },
+    {
+      "id": "time-trajectory",
+      "query": "time lapse stars path future life trajectory cinematic",
+      "label": "人生轨迹与时间感",
+      "startUs": 52000000,
+      "durationUs": 10000000,
+      "flower": ["不被此刻困住"]
+    },
+    {
+      "id": "dream-premonition",
+      "query": "dream surreal woman sleep light particles cinematic",
+      "label": "梦与预感",
+      "startUs": 62000000,
+      "durationUs": 10000000,
+      "flower": ["梦", "预感", "未必是巧合"]
+    },
+    {
+      "id": "future-signal",
+      "query": "light through shelves dust hand signal cinematic",
+      "label": "未来自己敲书架提醒",
+      "startUs": 72000000,
+      "durationUs": 9000000,
+      "flower": ["提醒你"]
+    },
+    {
+      "id": "warm-ending",
+      "query": "woman facing warm sunrise hopeful cinematic",
+      "label": "未来等你与温柔收束",
+      "startUs": 81000000,
+      "durationUs": 11000000,
+      "flower": ["未来等你", "更高版本的自己"]
+    }
+  ]
+}

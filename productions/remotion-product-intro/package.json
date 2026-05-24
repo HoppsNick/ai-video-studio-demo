@@ -1,0 +1,23 @@
+{
+  "name": "remotion-product-intro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts ProductIntro out/product-intro.mp4",
+    "still": "remotion still src/index.ts ProductIntro out/product-intro-preview.png --frame=210",
+    "tts": "node \"%npm_package_json%\\..\\scripts\\elevenlabs-tts.mjs\"",
+    "openai-tts": "node \"%npm_package_json%\\..\\scripts\\openai-tts.mjs\""
+  },
+  "dependencies": {
+    "@remotion/cli": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remotion": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}

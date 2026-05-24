@@ -1,0 +1,251 @@
+{
+  "draftName": "高维的你正在提醒你",
+  "draftRoot": "D:\\JianyingPro Drafts",
+  "canvas": {
+    "ratio": "16:9",
+    "width": 1920,
+    "height": 1080
+  },
+  "script": {
+    "original": "《星际穿越》最恐怖的地方，不是黑洞。而是库珀最后发现，那个一直在书架后给自己发信号的“鬼”，其实是未来的自己。",
+    "spokenFile": "spoken-script.txt",
+    "handling": "light spoken rewrite"
+  },
+  "voiceover": {
+    "label": "Microsoft Huihui clear female voiceover",
+    "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\audio\\voiceover-huihui-rate3.wav",
+    "startUs": 0,
+    "durationUs": 89000000,
+    "volume": 1
+  },
+  "shots": [
+    {
+      "label": "宇宙与黑洞悬念钩子",
+      "placeholder": false,
+      "startUs": 0,
+      "durationUs": 7000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\coverr_space stars cinematic_rRAiaiULf2.mp4"
+    },
+    {
+      "label": "书架后的信号",
+      "placeholder": false,
+      "startUs": 7000000,
+      "durationUs": 9000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pixabay_dark bookshelf light_203449_15s.mp4"
+    },
+    {
+      "label": "栏目开场与命运观察室",
+      "placeholder": false,
+      "startUs": 16000000,
+      "durationUs": 7000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pexels_space stars cinematic_27303243_3840x2160.mp4"
+    },
+    {
+      "label": "突然停下的直觉",
+      "placeholder": false,
+      "startUs": 23000000,
+      "durationUs": 12000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pexels_woman walking city pause_6566221_1920x1080.mp4"
+    },
+    {
+      "label": "回头才发现直觉很准",
+      "placeholder": false,
+      "startUs": 35000000,
+      "durationUs": 7000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pexels_woman looking out window cinematic_6262598_2048x1080.mp4"
+    },
+    {
+      "label": "元神概念出现",
+      "placeholder": false,
+      "startUs": 42000000,
+      "durationUs": 10000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pixabay_meditation light cinematic_324084_29s.mp4"
+    },
+    {
+      "label": "人生轨迹与时间感",
+      "placeholder": false,
+      "startUs": 52000000,
+      "durationUs": 10000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pexels_space stars cinematic_27303243_3840x2160.mp4"
+    },
+    {
+      "label": "梦与预感",
+      "placeholder": false,
+      "startUs": 62000000,
+      "durationUs": 10000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\coverr_dream woman surreal_wkXd5r8C9C.mp4"
+    },
+    {
+      "label": "未来自己敲书架提醒",
+      "placeholder": false,
+      "startUs": 72000000,
+      "durationUs": 9000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pexels_light dust room cinematic_31794139_3840x2160.mp4"
+    },
+    {
+      "label": "未来等你与温柔收束",
+      "placeholder": false,
+      "startUs": 81000000,
+      "durationUs": 11000000,
+      "path": "Z:\\codex  project\\测试自动下载\\productions\\interstellar-higher-self\\assets\\video\\pixabay_sunrise silhouette hopeful_206913_18s.mp4"
+    }
+  ],
+  "captions": [
+    {
+      "text": "《星际穿越》最恐怖的地方，不是黑洞。",
+      "startUs": 0,
+      "durationUs": 4200000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "最恐怖的不是黑洞",
+      "startUs": 900000,
+      "durationUs": 2400000,
+      "kind": "flower"
+    },
+    {
+      "text": "那个书架后的鬼，其实是未来的自己。",
+      "startUs": 4200000,
+      "durationUs": 7600000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "未来的自己",
+      "startUs": 8500000,
+      "durationUs": 2600000,
+      "kind": "flower"
+    },
+    {
+      "text": "命运观察室",
+      "startUs": 16000000,
+      "durationUs": 2600000,
+      "kind": "title"
+    },
+    {
+      "text": "Not luck, patterns.",
+      "startUs": 18600000,
+      "durationUs": 2600000,
+      "kind": "flower"
+    },
+    {
+      "text": "你有没有过这种瞬间？",
+      "startUs": 23000000,
+      "durationUs": 3300000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "别去",
+      "startUs": 26800000,
+      "durationUs": 1200000,
+      "kind": "flower"
+    },
+    {
+      "text": "再等等",
+      "startUs": 28400000,
+      "durationUs": 1200000,
+      "kind": "flower"
+    },
+    {
+      "text": "就是它",
+      "startUs": 30000000,
+      "durationUs": 1200000,
+      "kind": "flower"
+    },
+    {
+      "text": "那个直觉，准得有点可怕。",
+      "startUs": 35000000,
+      "durationUs": 5200000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "元神",
+      "startUs": 43200000,
+      "durationUs": 2000000,
+      "kind": "flower"
+    },
+    {
+      "text": "还有一个更高维度的你。",
+      "startUs": 46800000,
+      "durationUs": 4200000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "不被此刻困住",
+      "startUs": 54000000,
+      "durationUs": 2600000,
+      "kind": "flower"
+    },
+    {
+      "text": "梦、预感、突然击中你的话，未必只是巧合。",
+      "startUs": 62000000,
+      "durationUs": 7200000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "未必是巧合",
+      "startUs": 67400000,
+      "durationUs": 2200000,
+      "kind": "flower"
+    },
+    {
+      "text": "也许是高维的你，正在拼命提醒你。",
+      "startUs": 72000000,
+      "durationUs": 6200000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "提醒你",
+      "startUs": 75800000,
+      "durationUs": 1800000,
+      "kind": "flower"
+    },
+    {
+      "text": "其实一直有人，在未来等你。",
+      "startUs": 81200000,
+      "durationUs": 4700000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Not luck, patterns.",
+      "startUs": 86400000,
+      "durationUs": 2400000,
+      "kind": "title"
+    },
+    {
+      "text": "你只是被更高版本的自己，温柔地引导着。",
+      "startUs": 88800000,
+      "durationUs": 3200000,
+      "kind": "subtitle"
+    },
+    {
+      "text": "[音乐占位] 神秘氛围音乐",
+      "startUs": 0,
+      "durationUs": 2500000,
+      "kind": "marker"
+    },
+    {
+      "text": "[音效占位] hook低频冲击",
+      "startUs": 900000,
+      "durationUs": 1000000,
+      "kind": "marker"
+    },
+    {
+      "text": "[音效占位] 书架信号whoosh",
+      "startUs": 8500000,
+      "durationUs": 1000000,
+      "kind": "marker"
+    }
+  ],
+  "music": {
+    "label": "音乐占位：mysterious ambient bed",
+    "startUs": 0,
+    "durationUs": 92000000,
+    "volume": 0.18
+  },
+  "sfx": [],
+  "delivery": {
+    "openJianying": true,
+    "ensureDefaultScanJunction": true,
+    "keepPlaceholderReport": true
+  }
+}

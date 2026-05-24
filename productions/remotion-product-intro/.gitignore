@@ -1,0 +1,7 @@
+node_modules
+out
+.remotion
+.env
+.env.local
+assets/audio/*.mp3
+assets/audio/*.wav

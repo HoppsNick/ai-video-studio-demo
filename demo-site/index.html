@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Video Studio Demo</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar" aria-label="Project navigation">
+      <a class="brand" href="#top" aria-label="AI Video Studio">
+        <span class="brand-mark"></span>
+        <span>AI Video Studio</span>
+      </a>
+      <nav>
+        <a href="#workflow">流程</a>
+        <a href="#assets">素材</a>
+        <a href="#delivery">交付</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <video
+          class="hero-video"
+          src="../productions/remotion-product-intro/out/product-intro.mp4"
+          poster="../productions/remotion-product-intro/out/product-intro-preview.png"
+          autoplay
+          muted
+          loop
+          playsinline
+        ></video>
+        <div class="hero-shade"></div>
+        <div class="hero-content">
+          <p class="eyebrow">Remotion + Jianying/CapCut draft pipeline</p>
+          <h1>把脚本、素材、配音和字幕变成可审片的成片草稿</h1>
+          <p class="lede">
+            这个 demo 展示当前项目的核心能力：自动组织素材、生成旁白、构建视频镜头、输出 Remotion 成片，并沉淀可继续编辑的剪映草稿流程。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="../productions/remotion-product-intro/out/product-intro.mp4">播放成片</a>
+            <a class="secondary-action" href="#workflow">查看流程</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="Project highlights">
+        <div>
+          <strong>16:9</strong>
+          <span>横屏叙事画布</span>
+        </div>
+        <div>
+          <strong>92s</strong>
+          <span>旁白驱动短片</span>
+        </div>
+        <div>
+          <strong>10+</strong>
+          <span>镜头素材编排</span>
+        </div>
+        <div>
+          <strong>59</strong>
+          <span>可见文字图层实验</span>
+        </div>
+      </section>
+
+      <section class="section intro-band">
+        <div class="section-copy">
+          <p class="eyebrow">当前项目</p>
+          <h2>一个面向短视频生产的自动化工作台</h2>
+          <p>
+            仓库里已经包含素材下载、旁白测试、Remotion 产品片、剪映草稿构建脚本，以及“高维的你正在提醒你”这类叙事项目的制作计划。这个网站把它们整理成一眼能看懂的 demo。
+          </p>
+        </div>
+        <div class="preview-panel">
+          <img
+            src="../productions/remotion-product-intro/out/product-intro-preview.png"
+            alt="Product intro preview frame"
+          />
+        </div>
+      </section>
+
+      <section class="section workflow" id="workflow">
+        <div class="section-heading">
+          <p class="eyebrow">Workflow</p>
+          <h2>从文案到可编辑草稿</h2>
+        </div>
+        <div class="steps">
+          <article>
+            <span>01</span>
+            <h3>脚本拆解</h3>
+            <p>将口播文案转成镜头、花字、字幕、音效和音乐占位，形成可确认的制作方案。</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>素材匹配</h3>
+            <p>按主题搜索并整理 Coverr、Pexels、Pixabay 等视频素材，保留路径和时长信息。</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>视频生成</h3>
+            <p>用 Remotion 预览和渲染成片，同时支持 TTS 旁白、字幕图层与视觉包装。</p>
+          </article>
+          <article>
+            <span>04</span>
+            <h3>剪映交付</h3>
+            <p>构建 Jianying/CapCut 草稿，让最终项目能继续人工审片、微调和发布。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section asset-grid" id="assets">
+        <div class="section-heading">
+          <p class="eyebrow">Assets</p>
+          <h2>项目素材库</h2>
+        </div>
+        <div class="media-grid">
+          <article class="media-tile large">
+            <video src="../coverr_mountain_jAsTo0XGIn.mp4" muted loop playsinline></video>
+            <div>
+              <h3>自然与山景</h3>
+              <p>适合情绪铺垫、开场和转场。</p>
+            </div>
+          </article>
+          <article class="media-tile">
+            <video src="../pexels_loneliness_7280177_hd_1080x1920.mp4" muted loop playsinline></video>
+            <div>
+              <h3>孤独人物</h3>
+              <p>竖屏叙事素材。</p>
+            </div>
+          </article>
+          <article class="media-tile">
+            <img src="../pixabay_nature_7373484.jpg" alt="Nature material" />
+            <div>
+              <h3>静态封面</h3>
+              <p>可用于封面和背景。</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section delivery" id="delivery">
+        <div class="section-copy">
+          <p class="eyebrow">Delivery</p>
+          <h2>已具备的交付形态</h2>
+          <p>
+            当前项目不仅能给出预览视频，也保留了生成脚本、音频文件、制作计划和草稿注册逻辑，适合继续扩展成标准化的视频生产 demo 或内部工具首页。
+          </p>
+        </div>
+        <div class="delivery-list">
+          <a href="../productions/remotion-product-intro/src/ProductIntro.tsx">
+            <span>Remotion component</span>
+            <strong>ProductIntro.tsx</strong>
+          </a>
+          <a href="../productions/remotion-product-intro/scripts/build-layered-jianying-draft.mjs">
+            <span>Draft builder</span>
+            <strong>build-layered-jianying-draft.mjs</strong>
+          </a>
+          <a href="../productions/interstellar-higher-self/shot-plan.json">
+            <span>Shot plan</span>
+            <strong>interstellar-higher-self</strong>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
